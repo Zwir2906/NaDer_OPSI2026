@@ -4,7 +4,7 @@ Hai! Repositori ini adalah segala kode pemrograman yang digunakan dalam analisis
 oleh tim Nada Dering (SMA Negeri 1 Bangkalan) dengan Judul:
 > "Etnomatematika Batik Gentongan Madura: Analisis Struktur Motif sebagai Metode Penguatan Kreativitas Visual dan Budaya Siswa"
 
-Repositori ini berisi tiga folder untuk masing-masing sampel, dengan masing-masing sampel memiliki:
+Repositori ini berisi tiga folder untuk masing-masing sampel, dengan masing-masing sampel memiliki berkas-berkas berikut:
 - **Jupyter Notebook (.ipynb)** untuk analisis tiap-tiap bagian motif
 - **utils.py** sebagai modul analisis
 - **Foto-foto (.png)** berisi sampel asli dan hasil jiplak
